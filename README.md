@@ -1,2 +1,4 @@
 # dabc_challenge_6.api
 Module 6 - Python API homework
+
+In this challenge, I pulled information from the OpenWeather and Geoapify APIs to create dataframes, scatterplots, regressions, and maps using Python. In the WeatherPy notebook, I measured and looked for relationships between various weather factors and the coordinates of cities using for loops with exception handling. In the VacationPy notebook, I cleaned and organized a dataframe to drop null values and only keep cities with ideal weather perameters, and then I looped through each city to find the nearest hotel within 10km and displayed these results in an interactive map.
